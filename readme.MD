@@ -1,3 +1,7 @@
+# Description
+
+This script imports all your contacts (everybody that you once emailed in the past) and puts it in this spreadsheet with name, email and phonenumber. Superhandy to have an overview!
+
 #  Quick step to have the script in action
 
 https://docs.google.com/spreadsheets/d/1D_hGo1ICVSvUXw69EyWusryGaFNWsbx7lUmRxF_JhoI/copy
@@ -22,3 +26,6 @@ https://docs.google.com/spreadsheets/d/1D_hGo1ICVSvUXw69EyWusryGaFNWsbx7lUmRxF_J
 4. Menu 'Import Gmail Contacts' -> 'Import Contacts to Sheet'
 "It will create a sheet 'Contacts' with all your gmail contacts, 
 have fun!"
+
+# Contact information
+Wim official page: https://www.wimdenherder.com/
