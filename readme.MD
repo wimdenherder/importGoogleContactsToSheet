@@ -16,7 +16,7 @@ https://docs.google.com/spreadsheets/d/1D_hGo1ICVSvUXw69EyWusryGaFNWsbx7lUmRxF_J
 - Select your account, 
 (sometimes: 
   - click advanced, 
-  - scroll down, 
+  - scroll down,   
   - unsafe go to contacts)
 - Click allow"
 4. Menu 'Import Gmail Contacts' -> 'Import Contacts to Sheet'
