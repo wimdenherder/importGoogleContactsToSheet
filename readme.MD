@@ -1,14 +1,14 @@
-#  to see the script working
+#  Quick step to have the script in action
 
 https://docs.google.com/spreadsheets/d/1D_hGo1ICVSvUXw69EyWusryGaFNWsbx7lUmRxF_JhoI/copy
 
-# install script
+# Install script
 - Go to https://sheet.new
 - Menu Tools -> Script Editor
 - Paste the script code.gs
 - Refresh the sheet
 
-# execute script
+# Execute script
 1. Wait 20 seconds to have the menu appear (upper right corner)
 2. Click Menu 'Import Gmail Contacts' -> 'Allow permissions'
 3. Allow permissions:
